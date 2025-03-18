@@ -1,48 +1,4 @@
-<!DOCTYPE HTML>
-<!--
-	Industrious by TEMPLATED
-	templated.co @templatedco
-	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
--->
-<html>
-	<head>
-		<title>Relevantzdemo</title>
-		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-		<meta name="description" content="" />
-		<meta name="keywords" content="" />
-		<link rel="stylesheet" href="style.css" />
-	</head>
-	<body class="is-preload">
 
-		<!-- Header -->
-			<header id="header">
-				<a class="logo" href="index.html">Relevantz
-				</a>
-				<nav>
-					<a href="#menu">Menu</a>
-				</nav>
-			</header>
-
-		<!-- Nav -->
-			<nav id="menu">
-				<ul class="links">
-					<li><a href="index.html">Home</a></li>
-					<li><a href="elements.html">Elements</a></li>
-					<li><a href="generic.html">Generic</a></li>
-				</ul>
-			</nav>
-
-		<!-- Banner -->
-			<section id="banner">
-				<div class="inner">
-					<h1>About Relevantz</h1>
-					<p>We are in the business of custom software engineering. For 25+ years we have been partnering with customers, with an engineering mindset, doing what’s relevant, and winning their trust.<a href="https://templated.co/"></a></p>
-				</div>
-				<video autoplay loop muted playsinline src="images/banner.mp4"></video>
-			</section>
-
-		<!-- Highlights -->
 			<section class="wrapper">
 				<div class="inner">
 					<header class="special">
@@ -80,3 +36,46 @@
 								</p>
 							</div>
 						</section>
+						<section>
+							<div class="content">
+								<header>
+									<a href="#" class="icon fa-line-chart"><span class="label">Icon</span></a>
+									<h3>Careers US</h3>
+								</header>
+								<p>Vertical Enablement Team lead<br>
+								Finance Vertical SME<br>
+								Healthcare Vertical SME<br>
+								Client Partner<br>
+								Solution Engineer<br>
+								Senior Software Engineer
+							</p>
+							</div>
+						</section>
+						<section>
+							<div class="content">
+								<header>
+									<a href="#" class="icon fa-paper-plane-o"><span class="label">Icon</span></a>
+									<h3>Careers India</h3>
+								</header>
+								<p>Java Developer<br>
+									Angular Developer<br>
+                                    Dotnet Developer<br>
+									Python Developer<br>
+									Product Development Manager<br>
+								</p>
+							</div>
+						</section>
+						<section>
+							<div class="content">
+								<header>
+									<a href="#" class="icon fa-qrcode"><span class="label">Icon</span></a>
+									<h3>Contact US</h3>
+								</header>
+								<p>If you are an enterprise looking for a digital transformation partner, you can trust us to propel your innovation efforts forward and fill internal competency and capacity gaps. Whether it is a simple question or a valuable suggestion, we are here 24/7. You can give us a call or email us directly.
+
+								</p>
+							</div>
+						</section>
+					</div>
+				</div>
+			</section>
