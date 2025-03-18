@@ -1,0 +1,82 @@
+<!DOCTYPE HTML>
+<!--
+	Industrious by TEMPLATED
+	templated.co @templatedco
+	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
+-->
+<html>
+	<head>
+		<title>Relevantzdemo</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<meta name="description" content="" />
+		<meta name="keywords" content="" />
+		<link rel="stylesheet" href="style.css" />
+	</head>
+	<body class="is-preload">
+
+		<!-- Header -->
+			<header id="header">
+				<a class="logo" href="index.html">Relevantz
+				</a>
+				<nav>
+					<a href="#menu">Menu</a>
+				</nav>
+			</header>
+
+		<!-- Nav -->
+			<nav id="menu">
+				<ul class="links">
+					<li><a href="index.html">Home</a></li>
+					<li><a href="elements.html">Elements</a></li>
+					<li><a href="generic.html">Generic</a></li>
+				</ul>
+			</nav>
+
+		<!-- Banner -->
+			<section id="banner">
+				<div class="inner">
+					<h1>About Relevantz</h1>
+					<p>We are in the business of custom software engineering. For 25+ years we have been partnering with customers, with an engineering mindset, doing what’s relevant, and winning their trust.<a href="https://templated.co/"></a></p>
+				</div>
+				<video autoplay loop muted playsinline src="images/banner.mp4"></video>
+			</section>
+
+		<!-- Highlights -->
+			<section class="wrapper">
+				<div class="inner">
+					<header class="special">
+						<h2>OUR SERVICES
+
+						</h2>
+						<p>Our engineering capabilities will enable your organization to become a digital business that uses technology to drive superior customer experiences externally, powered by scalable platforms and agile processes internally.</p>
+					</header>
+					<div class="highlights">
+						<section>
+							<div class="content">
+								<header>
+									<a href="#" class=""><span class="label">Icon</span></a>
+									<h3>Industry Focus</h3>
+								</header>
+								<p>In an economy that is becoming increasingly digital, businesses have needed to keep pace with fast-changing digital demands. The COVID-19 pandemic has amplified these demands even more, while also creating new marketplace opportunities. To capitalize on these opportunities — and to not get left behind ⁠— businesses across a variety of industries have accelerated their digital transformation plans. And to prepare for any future disruptions and to navigate general uncertainty, businesses are strengthening their resilience and are becoming more agile.</p>
+							</div>
+						</section>
+						<section>
+							<div class="content">
+								<header>
+									<a href="#" class="icon fa-files-o"><span class="label">Icon</span></a>
+									<h3>Work</h3>
+								</header>
+								<p>When our client is in need of solution capabilities to explore new strategic directions while its core team is busy with ongoing business needs, or requires an immediate time-to-market product line that calls for a technology skill set it currently doesn’t have, we provide a solution engineering team with the needed skills to deliver innovative solutions and products. In this time-boxed model, we own the responsibility of delivering the software features or components within scope, budget, and time schedules.</p>
+							</div>
+						</section>
+						<section>
+							<div class="content">
+								<header>
+									<a href="#" class="icon fa-floppy-o"><span class="label">Icon</span></a>
+									<h3>Perspectives</h3>
+								</header>
+								<p>Expand your knowledge and learn from our subject matter experts as they help advance your business with strategies that take it to the next level. Learn more from their perspective through our Point of View, Wisdom Series, and Podcasts.
+								</p>
+							</div>
+						</section>
